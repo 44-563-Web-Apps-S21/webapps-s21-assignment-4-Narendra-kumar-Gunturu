@@ -1,9 +1,9 @@
 .speech{
-    font-size: 1px;
+    font-size: 15px;
     color: black;
 }
 .stage-direction{
-    font-size: 1px;
+    font-size: 15px;
     color: black;
     background-color: aquamarine;
 
@@ -14,7 +14,7 @@
 }
 
 .name {
-    font-size: 1px;
+    font-size: 20px;
     color: black;
 
 }
