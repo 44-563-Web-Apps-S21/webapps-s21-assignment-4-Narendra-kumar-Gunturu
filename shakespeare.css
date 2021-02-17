@@ -1,0 +1,27 @@
+.speech{
+    font-size: 1px;
+    color: black;
+}
+.stage-direction{
+    font-size: 1px;
+    color: black;
+    background-color: aquamarine;
+
+}
+.stage-direction:hover{
+    background-color: blanchedalmond;
+    color: cadetblue;
+}
+
+.name {
+    font-size: 1px;
+    color: black;
+
+}
+
+.SHYLOCK {
+    color: darkcyan;
+}
+.BASSANIO {
+    color: darkkhaki;
+}
