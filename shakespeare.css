@@ -40,3 +40,27 @@ table, th, td {
     text-shadow: 2px 2px 3px skyblue;
     border-style: dashed;
 }
+
+.bottomnav {
+    overflow: hidden;
+    background-color:springgreen;
+  }
+  
+  .bottomnav a {
+    float: left;
+    color:thistle;
+    text-align: center;
+    padding: 16px 19px;
+    text-decoration:yellowgreen;
+    font-size: 15px;
+  }
+  
+  .bottomnav a:hover {
+    background-color:teal;
+    color:tomato;
+  }
+  
+  .bottomnav a.active {
+    background-color:wheat;
+    color:slateblue;
+  }
