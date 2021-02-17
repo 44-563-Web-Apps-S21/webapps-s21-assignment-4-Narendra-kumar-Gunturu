@@ -35,3 +35,8 @@ table, th, td {
   tr:nth-child(even) {
     background-color: rosybrown;
   }
+.name:hover{
+    color:salmon;
+    text-shadow: 2px 2px 3px skyblue;
+    border-style: dashed;
+}
